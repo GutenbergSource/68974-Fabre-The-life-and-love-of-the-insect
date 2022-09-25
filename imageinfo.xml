@@ -1,0 +1,29 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/fig01.jpg" filesize="37188" filedate="2022-09-11 18:50:16" width="382px" height="516px"/>
+<image path="images/fig02.jpg" filesize="29483" filedate="2022-09-11 18:50:16" width="356px" height="371px"/>
+<image path="images/fig03.jpg" filesize="30618" filedate="2022-09-11 18:50:16" width="383px" height="438px"/>
+<image path="images/fig04.jpg" filesize="37366" filedate="2022-09-11 18:50:16" width="392px" height="698px"/>
+<image path="images/fig05.jpg" filesize="37942" filedate="2022-09-11 18:50:16" width="380px" height="382px"/>
+<image path="images/fig06.jpg" filesize="30237" filedate="2022-09-11 18:50:16" width="388px" height="387px"/>
+<image path="images/fig07.jpg" filesize="27830" filedate="2022-09-11 18:50:16" width="351px" height="405px"/>
+<image path="images/fig08.jpg" filesize="28565" filedate="2022-09-11 18:50:16" width="548px" height="255px"/>
+<image path="images/fig09.jpg" filesize="129399" filedate="2022-09-11 18:50:16" width="514px" height="1132px"/>
+<image path="images/fig10.jpg" filesize="121615" filedate="2022-09-11 18:50:16" width="608px" height="759px"/>
+<image path="images/fig11.jpg" filesize="425972" filedate="2022-09-11 18:50:16" width="1440px" height="898px"/>
+<image path="images/fig12.jpg" filesize="52812" filedate="2022-09-11 18:50:16" width="384px" height="575px"/>
+<image path="images/front.jpg" filesize="208457" filedate="2022-09-11 18:50:16" width="1009px" height="1440px"/>
+<image path="images/plate01.jpg" filesize="150450" filedate="2022-09-11 18:50:16" width="838px" height="1248px"/>
+<image path="images/plate02.jpg" filesize="392857" filedate="2022-09-11 18:50:16" width="1440px" height="913px"/>
+<image path="images/plate03.jpg" filesize="210094" filedate="2022-09-11 18:50:16" width="828px" height="1231px"/>
+<image path="images/plate04.jpg" filesize="166124" filedate="2022-09-11 18:50:16" width="842px" height="1233px"/>
+<image path="images/plate05.jpg" filesize="127141" filedate="2022-09-11 18:50:16" width="822px" height="1237px"/>
+<image path="images/plate06.jpg" filesize="157427" filedate="2022-09-11 18:50:16" width="835px" height="1242px"/>
+<image path="images/plate07.jpg" filesize="202294" filedate="2022-09-11 18:50:16" width="836px" height="1250px"/>
+<image path="images/plate08.jpg" filesize="157347" filedate="2022-09-11 18:50:16" width="832px" height="1230px"/>
+<image path="images/plate09.jpg" filesize="128073" filedate="2022-09-11 18:50:16" width="846px" height="1240px"/>
+<image path="images/plate10.jpg" filesize="184093" filedate="2022-09-11 18:50:16" width="1288px" height="766px"/>
+<image path="images/plate11.jpg" filesize="159796" filedate="2022-09-11 18:50:16" width="833px" height="1264px"/>
+<image path="images/plate12.jpg" filesize="136590" filedate="2022-09-11 18:50:16" width="831px" height="1235px"/>
+<image path="images/qr68974.png" filesize="340" filedate="2022-09-12 18:01:27" width="296px" height="296px"/>
+<image path="images/titlepage.png" filesize="24402" filedate="2022-09-11 18:50:16" width="949px" height="1440px"/>
+</images>
